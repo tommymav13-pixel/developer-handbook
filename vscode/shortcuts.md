@@ -1,18 +1,49 @@
-# VS Code shortcuts
+# VS Code Shortcuts
 
-## 2026-08-04
+## Explorer
 
-Ctrl + P
-(Open bestand)
-
-Ctrl + Shift + P
-(Command Palette)
-
-Ctrl + `
-(Terminal openen/sluiten)
-
-Ctrl + Tab
-(Wisselen tussen geopende bestanden)
-
+```text
 Ctrl + Shift + E
-(Explorer)
+```
+
+Open de Explorer.
+
+---
+
+## Terminal
+
+```text
+Ctrl + `
+```
+
+Open of sluit de terminal.
+
+---
+
+## Open bestand
+
+```text
+Ctrl + P
+```
+
+Zoek een bestand.
+
+---
+
+## Command Palette
+
+```text
+Ctrl + Shift + P
+```
+
+Open alle VS Code-commando's.
+
+---
+
+## Wisselen tussen bestanden
+
+```text
+Ctrl + Tab
+```
+
+Ga naar het volgende geopende bestand.
