@@ -1,5 +1,23 @@
 # Developer Handbook
 
+A personal knowledge base documenting my journey from beginner to software 
+developer.
+
+Topics include:
+
+- Git
+- GitHub
+- PowerShell
+- VS Code
+- Python
+- Workflows
+- Naming conventions
+
+This repository grows as I learn new concepts and improve my development 
+workflow.
+
+# Doel
+
 Persoonlijke kennisbank
 
 Doelen:
