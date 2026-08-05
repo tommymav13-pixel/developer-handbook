@@ -1,18 +1,24 @@
 # Versienummers
 
-Gebruik:
+## Gebruik
 
+```text
 v01
 v02
 v03
+```
 
-Voorbeeld:
+## Voorbeelden
 
+```text
 cv_v01.pdf
 cv_v02.pdf
+```
 
-Niet:
+## Vermijd
 
+```text
 cv_nieuw.pdf
 cv_definitief.pdf
-cv_definitiet_echt.pdf
+cv_definitief_echt.pdf
+```
