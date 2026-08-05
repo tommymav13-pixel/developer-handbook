@@ -107,3 +107,15 @@ Use for Markdown examples.
 
 - Item 1
 - Item 2
+```` 
+
+---
+
+## Principle 
+
+Always use the most appropriate language identifier. 
+
+If no programming language applies, use: 
+```text 
+text 
+```
