@@ -305,17 +305,17 @@ Synchronize if necessary
         ↓
 Open project
         ↓
-Edit and test
-        ↓
-git status
-        ↓
-git diff
-        ↓
-git add <files>
-        ↓
-git diff --staged
-        ↓
-git commit
+Edit and test ←──────────────┐
+        ↓                    │
+git status                   │
+        ↓                    │
+git diff                     │
+        ↓                    │
+git add <files>              │
+        ↓                    │
+git diff --staged            │
+        ↓                    │
+git commit ──────────────────┘
         ↓
 git push
         ↓
