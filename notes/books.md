@@ -1,84 +1,220 @@
 # Books
 
-## Current
+This document tracks books used or planned for software development,
+computer science, and related technical study.
 
-### Python Crash Course (3rd Edition)
-
-**Status:** In Progress  
-**Current Chapter:** 5
-
-**Purpose**
-
-- Learn Python fundamentals.
-- Complete all programming exercises.
-- Develop a professional Git workflow.
-- Prepare for independent Python projects.
+The list is intentionally selective. General mathematics, language, and
+non-technical books are tracked separately.
 
 ---
 
-## Planned
+## Currently Studying
 
-### Automate the Boring Stuff with Python
+### Python Crash Course — 3rd Edition
 
-**Status:** Planned
+**Author:** Eric Matthes
+**Status:** In Progress
+**Current Chapter:** 6
 
-**Purpose**
+**Purpose:**
 
-- Automate repetitive tasks.
-- Work with files and folders.
-- Manipulate PDFs, Excel files and text.
-- Build practical utility scripts.
+* learn Python fundamentals;
+* complete programming exercises;
+* practice Git and GitHub throughout the learning process;
+* build a foundation for independent Python projects;
+* prepare for more advanced Python study.
 
 ---
 
-### Think Python
+### Head First Java — 3rd Edition
 
+**Authors:** Kathy Sierra, Bert Bates, and Trisha Gee
+**Status:** In Progress
+**Current Chapter:** 1
+
+**Purpose:**
+
+* learn Java syntax and programming fundamentals;
+* understand Java's compilation and execution model;
+* develop experience with a statically typed language;
+* broaden general software engineering knowledge;
+* build a foundation for more advanced Java development.
+
+---
+
+## High Priority
+
+### Effective Python
+
+**Author:** Brett Slatkin
 **Status:** Planned
 
-**Purpose**
+**Purpose:**
 
-- Strengthen Python fundamentals.
-- Improve problem-solving skills.
-- Gain a deeper understanding of programming concepts.
+* develop more idiomatic Python;
+* understand Python-specific design patterns and best practices;
+* improve code quality and maintainability;
+* progress beyond basic Python syntax.
+
+This book becomes increasingly useful after the Python fundamentals are
+established.
+
+---
+
+### The Pragmatic Programmer
+
+**Authors:** David Thomas and Andrew Hunt
+**Status:** Planned
+
+**Purpose:**
+
+* develop professional software engineering habits;
+* improve code design and maintainability;
+* learn principles that apply across programming languages;
+* strengthen problem-solving and development practices.
 
 ---
 
 ### Grokking Algorithms
 
+**Author:** Aditya Bhargava
 **Status:** Planned
 
-**Purpose**
+**Purpose:**
 
-- Learn common algorithms and data structures.
-- Develop algorithmic thinking.
-- Understand Big O notation.
-- Prepare for software engineering and quantitative development.
+* learn common algorithms and data structures;
+* develop algorithmic thinking;
+* understand Big O notation;
+* prepare for more formal study of algorithms and computer science;
+* support long-term software engineering and quantitative development.
 
 ---
 
-### Future
+### The DevOps Handbook
 
-- Fluent Python
-- Clean Code
-- Designing Data-Intensive Applications
+**Authors:** Gene Kim, Jez Humble, Patrick Debois, and John Willis
+**Status:** Planned
+
+**Purpose:**
+
+* understand modern DevOps principles;
+* learn about delivery pipelines and operational workflows;
+* understand collaboration between development and operations;
+* develop background knowledge relevant to DevOps engineering.
+
+---
+
+## Practical Python
+
+### Automate the Boring Stuff with Python
+
+**Author:** Al Sweigart
+**Status:** Planned
+
+**Purpose:**
+
+* automate repetitive tasks;
+* work with files and directories;
+* process common document and data formats;
+* build practical utility scripts;
+* apply Python to real-world automation.
+
+---
+
+## Additional Python Study
+
+### Think Python
+
+**Author:** Allen B. Downey
+**Status:** Planned
+
+**Purpose:**
+
+* strengthen Python fundamentals;
+* develop computational thinking;
+* improve problem-solving skills;
+* explore programming concepts from a different perspective.
+
+This is supplementary material rather than an immediate priority.
+
+---
+
+## Future Study
+
+Books to consider after the current foundations are stronger:
+
+### Python
+
+* *Fluent Python*
+
+### Software Engineering
+
+* *Designing Data-Intensive Applications*
+
+### Algorithms and Computer Science
+
+Additional books will be selected after completing introductory algorithms and
+data structures material.
+
+### Quantitative Development
+
+Future study will eventually include more advanced material in:
+
+* algorithms and data structures;
+* C++;
+* numerical computing;
+* probability and statistics;
+* financial mathematics;
+* quantitative finance.
+
+Specific books should be selected when these topics enter the active
+curriculum.
 
 ---
 
 ## Learning Strategy
 
-1. Complete **Python Crash Course**.
-2. Build several small independent projects.
-3. Study **Automate the Boring Stuff with Python**.
-4. Study **Think Python**.
-5. Study **Grokking Algorithms** alongside larger projects.
+The general progression is:
 
-Only study one primary programming book at a time.
+```text id="gy2wz0"
+Programming fundamentals
+        ↓
+Independent projects
+        ↓
+Algorithms and data structures
+        ↓
+Software engineering practices
+        ↓
+Systems and infrastructure
+        ↓
+Advanced language knowledge
+        ↓
+Quantitative development
+```
+
+Multiple subjects can be studied in parallel, but avoid working through several
+books that serve the same purpose at the same time.
+
+For example:
+
+```text id="82mc0f"
+Python fundamentals     → Python Crash Course
+Java fundamentals       → Head First Java
+Algorithms              → Grokking Algorithms
+Software engineering    → The Pragmatic Programmer
+DevOps                  → The DevOps Handbook
+```
+
+Each resource should have a clear role in the broader learning curriculum.
 
 ---
 
 ## Principle
 
-Books teach concepts.
+Books and courses provide structured learning material.
 
-The **developer-handbook** stores the knowledge, workflows and conventions that
-I have personally learned and applied.
+The **developer-handbook** stores reusable knowledge, workflows, conventions,
+solutions, and patterns that have been personally understood and applied.
+
+The goal is not to reproduce books inside the handbook, but to retain the
+knowledge that remains useful after studying them.
