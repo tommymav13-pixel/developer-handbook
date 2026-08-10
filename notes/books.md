@@ -42,6 +42,30 @@ non-technical books are tracked separately.
 
 ---
 
+### Introduction to Linear Algebra — 6th Edition
+
+**Author:** Gilbert Strang
+**Status:** In Progress
+**Current Chapter:** 1
+
+**Supporting Material:**
+
+* MIT OpenCourseWare 18.06 — Linear Algebra;
+* Gilbert Strang's MIT video lectures.
+
+**Purpose:**
+
+* develop a rigorous understanding of vectors and matrices;
+* understand linear combinations and systems of linear equations;
+* build mathematical foundations for algorithms, data science, machine learning,
+  and quantitative development;
+* prepare for more advanced numerical and quantitative methods.
+
+Linear algebra is part of the mathematical foundation for the long-term
+quantitative development curriculum.
+
+---
+
 ## High Priority
 
 ### Effective Python
