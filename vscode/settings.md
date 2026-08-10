@@ -1,55 +1,58 @@
-# VS Code instellingen
+# VS Code Settings
+
+This document contains Visual Studio Code settings used for the current development environment.
+
+---
 
 ## Python
 
-### Indentatie
+### Indentation
 
-- 4 spaties
+Use 4 spaces per indentation level.
 
-Waarom?
-
-PEP 8.
+This follows the PEP 8 recommendation for Python code.
 
 ---
 
 ### Ruler
 
-80 tekens.
+Display a vertical ruler at column 80.
 
-Waarom?
-
-Leesbaarheid.
+The ruler provides a visual guideline for line length. PEP 8 recommends a maximum line length of 79 characters for Python code.
 
 ---
 
 ### Format on Save
 
-Aan.
+Enable **Format on Save**.
 
-Waarom?
-
-Automatisch nette code.
+This automatically formats code when a file is saved, provided that an appropriate formatter is configured.
 
 ---
 
-### Explorer
+## Command-Line Usage
 
-Gebruik Ctrl+Shift+E
+Open the current directory in VS Code:
 
----
-
-### Terminal
-
-Ctrl+`
-
----
-
-### Handige commando's
-
+```powershell id="cv0ssj"
 code .
+```
 
-Opent huidige map.
+Open a specific file:
 
-code bestand.py
+```powershell id="dlwv1h"
+code filename.py
+```
 
-Opent één bestand.
+For example:
+
+```powershell id="18mrkb"
+code cities.py
+```
+
+---
+
+## Related Documentation
+
+* `shortcuts.md` — useful VS Code keyboard shortcuts
+* `../python/pep8.md` — Python style conventions
