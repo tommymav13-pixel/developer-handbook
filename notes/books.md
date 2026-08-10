@@ -66,6 +66,31 @@ quantitative development curriculum.
 
 ---
 
+### Learning SQL
+
+**Author:** Alan Beaulieu
+**Status:** In Progress
+**Database System:** MySQL 8.0
+**Practice Database:** Sakila
+
+**Supporting Material:**
+
+* MySQL Reference Manual;
+* Sakila sample database;
+* practical SQL exercises.
+
+**Purpose:**
+
+* learn relational database fundamentals;
+* develop practical SQL querying skills;
+* understand tables, rows, columns, keys, and relationships;
+* learn data retrieval, filtering, sorting, aggregation, and joins;
+* gain practical experience working with MySQL;
+* build database knowledge relevant to software engineering, backend
+  development, and quantitative development.
+
+---
+
 ## High Priority
 
 ### Effective Python
